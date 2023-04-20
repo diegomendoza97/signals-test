@@ -1,2 +1,1 @@
-# signals-test
-small signals-app
+Smapp signals app
